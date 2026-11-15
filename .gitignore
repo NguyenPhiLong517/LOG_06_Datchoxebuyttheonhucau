@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+packages/
+*.nupkg
+
+# Temporary files
+*.tmp
+*~
+~$*
+Thumbs.db

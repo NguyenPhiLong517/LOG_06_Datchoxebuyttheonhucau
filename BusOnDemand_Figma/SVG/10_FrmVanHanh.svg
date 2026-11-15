@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">FrmVanHanh - Van hanh chuyen xe</title><desc id="desc">Editable desktop UI mockup for Bus On Demand.</desc>
+<defs><style>.ui-text{font-family:Inter,"Segoe UI",Arial,sans-serif}.no-select{user-select:none}</style></defs>
+<rect id="shape-1" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F6FB" stroke="none" stroke-width="1"/>
+<rect id="shape-2" x="0" y="0" width="1440" height="82" rx="0" fill="#17345B" stroke="none" stroke-width="1"/>
+<rect id="shape-3" x="28" y="17" width="48" height="48" rx="12" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-4" class="ui-text" x="52" y="49" font-size="26px" font-weight="700" fill="#FFFFFF" text-anchor="middle">B</text>
+<text id="text-5" class="ui-text" x="91" y="35" font-size="17px" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing=".7">BUS ON DEMAND</text>
+<text id="text-6" class="ui-text" x="92" y="56" font-size="9px" font-weight="700" fill="#C8D7E8" text-anchor="start" letter-spacing=".6">HỆ THỐNG ĐẶT CHỖ XE BUÝT THEO NHU CẦU</text>
+<rect id="shape-7" x="1245" y="19" width="165" height="42" rx="21" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-8" class="ui-text" x="1327.5" y="45" font-size="12px" font-weight="700" fill="#FFFFFF" text-anchor="middle">LÁI XE · nd02</text>
+<text id="text-9" class="ui-text" x="38" y="132" font-size="30px" font-weight="700" fill="#17345B" text-anchor="start">Vận hành chuyến xe</text>
+<text id="text-10" class="ui-text" x="40" y="157" font-size="13px" font-weight="400" fill="#64758B" text-anchor="start">Điểm danh một lần trước khởi hành; xác nhận khởi hành và hoàn thành chuyến. Không theo dõi GPS.</text>
+<rect id="shape-11" x="1240" y="119" width="87.7" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-12" class="ui-text" x="1283.85" y="137" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">UC12–UC15</text>
+<rect id="shape-13" x="36" y="182" width="1368" height="108" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-14" class="ui-text" x="58" y="212" font-size="18px" font-weight="700" fill="#17345B" text-anchor="start">Chuyến được phân công</text>
+<text id="text-15" class="ui-text" x="58" y="207" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">CHỌN CHUYẾN</text>
+<rect id="shape-16" x="58" y="217" width="380" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-17" class="ui-text" x="71" y="243" font-size="13px" font-weight="400" fill="#1C2D43" text-anchor="start">CX102 — Chiều đi — 15/11/2026 07:30  ▾</text>
+<text id="text-18" class="ui-text" x="470" y="239" font-size="12px" font-weight="700" fill="#17345B" text-anchor="start">Xe: XE02   ·   Sức chứa: 29   ·   Trạng thái: Dự kiến</text>
+<rect id="shape-19" x="36" y="310" width="1368" height="420" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-20" class="ui-text" x="58" y="340" font-size="18px" font-weight="700" fill="#17345B" text-anchor="start">Danh sách hành khách đặt ghế</text>
+<text id="text-21" class="ui-text" x="58" y="363" font-size="12px" font-weight="400" fill="#64758B" text-anchor="start">Chọn kết quả điểm danh cho từng hành khách. Có thể sửa trước khi xác nhận khởi hành.</text>
+<rect id="shape-22" x="58" y="380" width="1324" height="43" rx="7" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-23" class="ui-text" x="70" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã đặt chỗ</text>
+<text id="text-24" class="ui-text" x="290" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã hành khách</text>
+<text id="text-25" class="ui-text" x="530" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Họ tên</text>
+<text id="text-26" class="ui-text" x="920" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Kết quả điểm danh</text>
+<rect id="shape-27" x="58" y="423" width="1324" height="49" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-28" x1="58" y1="472" x2="1382" y2="472" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-29" class="ui-text" x="70" y="451.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC001</text>
+<text id="text-30" class="ui-text" x="290" y="451.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">ND101</text>
+<text id="text-31" class="ui-text" x="530" y="451.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Nguyễn An</text>
+<rect id="shape-32" x="918" y="434.0" width="70" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-33" class="ui-text" x="953.0" y="452.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Có mặt</text>
+<rect id="shape-34" x="58" y="472" width="1324" height="49" rx="0" fill="#F7F9FC" stroke="none" stroke-width="1"/>
+<line id="line-35" x1="58" y1="521" x2="1382" y2="521" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-36" class="ui-text" x="70" y="500.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC002</text>
+<text id="text-37" class="ui-text" x="290" y="500.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">ND102</text>
+<text id="text-38" class="ui-text" x="530" y="500.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Trần Bình</text>
+<rect id="shape-39" x="918" y="483.0" width="70" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-40" class="ui-text" x="953.0" y="501.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Có mặt</text>
+<rect id="shape-41" x="58" y="521" width="1324" height="49" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-42" x1="58" y1="570" x2="1382" y2="570" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-43" class="ui-text" x="70" y="549.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC003</text>
+<text id="text-44" class="ui-text" x="290" y="549.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">ND103</text>
+<text id="text-45" class="ui-text" x="530" y="549.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Lê Chi</text>
+<rect id="shape-46" x="918" y="532.0" width="80.4" height="27" rx="13" fill="#FCECEE" stroke="none" stroke-width="1"/>
+<text id="text-47" class="ui-text" x="958.2" y="550.0" font-size="11px" font-weight="700" fill="#C33D4B" text-anchor="middle">Vắng mặt</text>
+<rect id="shape-48" x="58" y="570" width="1324" height="49" rx="0" fill="#F7F9FC" stroke="none" stroke-width="1"/>
+<line id="line-49" x1="58" y1="619" x2="1382" y2="619" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-50" class="ui-text" x="70" y="598.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC004</text>
+<text id="text-51" class="ui-text" x="290" y="598.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">ND104</text>
+<text id="text-52" class="ui-text" x="530" y="598.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Phạm Dũng</text>
+<rect id="shape-53" x="918" y="581.0" width="124.2" height="27" rx="13" fill="#FFF4DF" stroke="none" stroke-width="1"/>
+<text id="text-54" class="ui-text" x="980.1" y="599.0" font-size="11px" font-weight="700" fill="#A86A12" text-anchor="middle">Chưa điểm danh</text>
+<rect id="shape-55" x="58" y="619" width="1324" height="49" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-56" x1="58" y1="668" x2="1382" y2="668" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-57" class="ui-text" x="70" y="647.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC005</text>
+<text id="text-58" class="ui-text" x="290" y="647.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">ND105</text>
+<text id="text-59" class="ui-text" x="530" y="647.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Vũ Giang</text>
+<rect id="shape-60" x="918" y="630.0" width="70" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-61" class="ui-text" x="953.0" y="648.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Có mặt</text>
+<rect id="shape-62" x="36" y="750" width="1368" height="74" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<rect id="button-63" x="58" y="766" width="185" height="42" rx="8" fill="#0D8C8C" stroke="#0D8C8C" stroke-width="1"/>
+<text id="text-64" class="ui-text" x="150.5" y="792.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">LƯU ĐIỂM DANH</text>
+<rect id="button-65" x="258" y="766" width="245" height="42" rx="8" fill="#24496F" stroke="#24496F" stroke-width="1"/>
+<text id="text-66" class="ui-text" x="380.5" y="792.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">XÁC NHẬN KHỞI HÀNH</text>
+<rect id="button-67" x="518" y="766" width="270" height="42" rx="8" fill="#21835A" stroke="#21835A" stroke-width="1"/>
+<text id="text-68" class="ui-text" x="653.0" y="792.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">XÁC NHẬN HOÀN THÀNH</text>
+<text id="text-69" class="ui-text" x="820" y="792" font-size="11px" font-weight="400" fill="#64758B" text-anchor="start">No-show được hệ thống xác định sau khi xác nhận khởi hành.</text>
+</svg>

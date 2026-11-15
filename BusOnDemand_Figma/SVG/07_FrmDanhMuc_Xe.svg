@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">FrmDanhMuc - Tab danh muc xe</title><desc id="desc">Editable desktop UI mockup for Bus On Demand.</desc>
+<defs><style>.ui-text{font-family:Inter,"Segoe UI",Arial,sans-serif}.no-select{user-select:none}</style></defs>
+<rect id="shape-1" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F6FB" stroke="none" stroke-width="1"/>
+<rect id="shape-2" x="0" y="0" width="1440" height="82" rx="0" fill="#17345B" stroke="none" stroke-width="1"/>
+<rect id="shape-3" x="28" y="17" width="48" height="48" rx="12" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-4" class="ui-text" x="52" y="49" font-size="26px" font-weight="700" fill="#FFFFFF" text-anchor="middle">B</text>
+<text id="text-5" class="ui-text" x="91" y="35" font-size="17px" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing=".7">BUS ON DEMAND</text>
+<text id="text-6" class="ui-text" x="92" y="56" font-size="9px" font-weight="700" fill="#C8D7E8" text-anchor="start" letter-spacing=".6">HỆ THỐNG ĐẶT CHỖ XE BUÝT THEO NHU CẦU</text>
+<rect id="shape-7" x="1213.8" y="19" width="196.2" height="42" rx="21" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-8" class="ui-text" x="1311.9" y="45" font-size="12px" font-weight="700" fill="#FFFFFF" text-anchor="middle">ĐIỀU PHỐI VIÊN · nd03</text>
+<text id="text-9" class="ui-text" x="38" y="132" font-size="30px" font-weight="700" fill="#17345B" text-anchor="start">Danh mục xe và cấu hình hệ thống</text>
+<text id="text-10" class="ui-text" x="40" y="157" font-size="13px" font-weight="400" fill="#64758B" text-anchor="start">Quản lý phương tiện, sức chứa và điều kiện hỗ trợ tiếp cận.</text>
+<rect id="shape-11" x="1240" y="119" width="87.7" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-12" class="ui-text" x="1283.85" y="137" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">UC16–UC17</text>
+<rect id="shape-13" x="36" y="182" width="1368" height="642" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-14" class="ui-text" x="58" y="212" font-size="18px" font-weight="700" fill="#17345B" text-anchor="start">Danh mục xe</text>
+<rect id="shape-15" x="58" y="205" width="210" height="38" rx="7" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-16" class="ui-text" x="163" y="229" font-size="12px" font-weight="700" fill="#FFFFFF" text-anchor="middle">DANH MỤC XE</text>
+<rect id="shape-17" x="276" y="205" width="220" height="38" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-18" class="ui-text" x="386" y="229" font-size="12px" font-weight="700" fill="#64758B" text-anchor="middle">CẤU HÌNH NGƯỠNG</text>
+<line id="line-19" x1="58" y1="253" x2="1382" y2="253" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-20" class="ui-text" x="60" y="282" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">MÃ XE</text>
+<rect id="shape-21" x="60" y="292" width="150" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-22" class="ui-text" x="73" y="318" font-size="13px" font-weight="400" fill="#1C2D43" text-anchor="start">XE03</text>
+<text id="text-23" class="ui-text" x="230" y="282" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">BIỂN SỐ</text>
+<rect id="shape-24" x="230" y="292" width="200" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-25" class="ui-text" x="243" y="318" font-size="13px" font-weight="400" fill="#1C2D43" text-anchor="start">51A-000.03</text>
+<text id="text-26" class="ui-text" x="450" y="282" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">SỨC CHỨA</text>
+<rect id="shape-27" x="450" y="292" width="130" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-28" class="ui-text" x="463" y="318" font-size="13px" font-weight="400" fill="#1C2D43" text-anchor="start">29</text>
+<rect id="shape-29" x="600" y="292" width="22" height="22" rx="4" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-30" class="ui-text" x="611" y="308" font-size="14px" font-weight="700" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text id="text-31" class="ui-text" x="633" y="308" font-size="12px" font-weight="400" fill="#1C2D43" text-anchor="start">Hỗ trợ tiếp cận</text>
+<text id="text-32" class="ui-text" x="800" y="282" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">TRẠNG THÁI</text>
+<rect id="shape-33" x="800" y="292" width="220" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-34" class="ui-text" x="813" y="318" font-size="13px" font-weight="400" fill="#1C2D43" text-anchor="start">Sẵn sàng  ▾</text>
+<rect id="button-35" x="1045" y="292" width="110" height="39" rx="8" fill="#0D8C8C" stroke="#0D8C8C" stroke-width="1"/>
+<text id="text-36" class="ui-text" x="1100.0" y="316.5" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">THÊM XE</text>
+<rect id="button-37" x="1165" y="292" width="120" height="39" rx="8" fill="#24496F" stroke="#24496F" stroke-width="1"/>
+<text id="text-38" class="ui-text" x="1225.0" y="316.5" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">LƯU SỬA</text>
+<rect id="button-39" x="1295" y="292" width="80" height="39" rx="8" fill="#C33D4B" stroke="#C33D4B" stroke-width="1"/>
+<text id="text-40" class="ui-text" x="1335.0" y="316.5" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">XÓA</text>
+<rect id="shape-41" x="58" y="380" width="1324" height="43" rx="7" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-42" class="ui-text" x="70" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã xe</text>
+<text id="text-43" class="ui-text" x="270" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Biển số</text>
+<text id="text-44" class="ui-text" x="540" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Sức chứa</text>
+<text id="text-45" class="ui-text" x="710" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Hỗ trợ tiếp cận</text>
+<text id="text-46" class="ui-text" x="970" y="407" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Trạng thái</text>
+<rect id="shape-47" x="58" y="423" width="1324" height="55" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-48" x1="58" y1="478" x2="1382" y2="478" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-49" class="ui-text" x="70" y="454.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">XE01</text>
+<text id="text-50" class="ui-text" x="270" y="454.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">51A-000.01</text>
+<text id="text-51" class="ui-text" x="540" y="454.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">16</text>
+<rect id="shape-52" x="708" y="437.0" width="70" height="27" rx="13" fill="#EEF2F7" stroke="none" stroke-width="1"/>
+<text id="text-53" class="ui-text" x="743.0" y="455.0" font-size="11px" font-weight="700" fill="#64758B" text-anchor="middle">Không</text>
+<rect id="shape-54" x="968" y="437.0" width="80.4" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-55" class="ui-text" x="1008.2" y="455.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Sẵn sàng</text>
+<rect id="shape-56" x="58" y="478" width="1324" height="55" rx="0" fill="#F7F9FC" stroke="none" stroke-width="1"/>
+<line id="line-57" x1="58" y1="533" x2="1382" y2="533" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-58" class="ui-text" x="70" y="509.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">XE02</text>
+<text id="text-59" class="ui-text" x="270" y="509.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">51A-000.02</text>
+<text id="text-60" class="ui-text" x="540" y="509.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">29</text>
+<rect id="shape-61" x="708" y="492.0" width="70" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-62" class="ui-text" x="743.0" y="510.0" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">Có</text>
+<rect id="shape-63" x="968" y="492.0" width="80.4" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-64" class="ui-text" x="1008.2" y="510.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Sẵn sàng</text>
+<rect id="shape-65" x="58" y="533" width="1324" height="55" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-66" x1="58" y1="588" x2="1382" y2="588" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-67" class="ui-text" x="70" y="564.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">XE03</text>
+<text id="text-68" class="ui-text" x="270" y="564.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">51A-000.03</text>
+<text id="text-69" class="ui-text" x="540" y="564.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">29</text>
+<rect id="shape-70" x="708" y="547.0" width="70" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-71" class="ui-text" x="743.0" y="565.0" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">Có</text>
+<rect id="shape-72" x="968" y="547.0" width="73.1" height="27" rx="13" fill="#FFF4DF" stroke="none" stroke-width="1"/>
+<text id="text-73" class="ui-text" x="1004.55" y="565.0" font-size="11px" font-weight="700" fill="#A86A12" text-anchor="middle">Bảo trì</text>
+<text id="text-74" class="ui-text" x="60" y="615" font-size="11px" font-weight="400" fill="#64758B" text-anchor="start">Quy tắc: sức chứa phải lớn hơn 0; không xóa xe đang được gán cho chuyến còn hoạt động.</text>
+</svg>

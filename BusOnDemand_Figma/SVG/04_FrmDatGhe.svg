@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">FrmDatGhe - Dat ghe</title><desc id="desc">Editable desktop UI mockup for Bus On Demand.</desc>
+<defs><style>.ui-text{font-family:Inter,"Segoe UI",Arial,sans-serif}.no-select{user-select:none}</style></defs>
+<rect id="shape-1" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F6FB" stroke="none" stroke-width="1"/>
+<rect id="shape-2" x="0" y="0" width="1440" height="82" rx="0" fill="#17345B" stroke="none" stroke-width="1"/>
+<rect id="shape-3" x="28" y="17" width="48" height="48" rx="12" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-4" class="ui-text" x="52" y="49" font-size="26px" font-weight="700" fill="#FFFFFF" text-anchor="middle">B</text>
+<text id="text-5" class="ui-text" x="91" y="35" font-size="17px" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing=".7">BUS ON DEMAND</text>
+<text id="text-6" class="ui-text" x="92" y="56" font-size="9px" font-weight="700" fill="#C8D7E8" text-anchor="start" letter-spacing=".6">HỆ THỐNG ĐẶT CHỖ XE BUÝT THEO NHU CẦU</text>
+<rect id="shape-7" x="1245" y="19" width="165" height="42" rx="21" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-8" class="ui-text" x="1327.5" y="45" font-size="12px" font-weight="700" fill="#FFFFFF" text-anchor="middle">HÀNH KHÁCH · nd01</text>
+<text id="text-9" class="ui-text" x="38" y="132" font-size="30px" font-weight="700" fill="#17345B" text-anchor="start">Đặt ghế</text>
+<text id="text-10" class="ui-text" x="40" y="157" font-size="13px" font-weight="400" fill="#64758B" text-anchor="start">Xem chuyến thuộc nhu cầu của bạn, kiểm tra số chỗ còn lại và đặt/hủy chỗ.</text>
+<rect id="shape-11" x="1240" y="119" width="87.7" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-12" class="ui-text" x="1283.85" y="137" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">UC06–UC07</text>
+<rect id="shape-13" x="36" y="182" width="1368" height="304" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-14" class="ui-text" x="58" y="212" font-size="18px" font-weight="700" fill="#17345B" text-anchor="start">Chuyến có thể đặt</text>
+<text id="text-15" class="ui-text" x="58" y="235" font-size="12px" font-weight="400" fill="#64758B" text-anchor="start">Không chọn số ghế cụ thể; số chỗ còn lại được tính theo sức chứa và các chỗ đang giữ.</text>
+<rect id="shape-16" x="58" y="252" width="1324" height="43" rx="7" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-17" class="ui-text" x="70" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã chuyến</text>
+<text id="text-18" class="ui-text" x="200" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Giờ dự kiến</text>
+<text id="text-19" class="ui-text" x="430" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Hướng đi</text>
+<text id="text-20" class="ui-text" x="600" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Xe / sức chứa</text>
+<text id="text-21" class="ui-text" x="820" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Chỗ còn</text>
+<text id="text-22" class="ui-text" x="950" y="279" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Hỗ trợ tiếp cận</text>
+<rect id="shape-23" x="58" y="295" width="1324" height="48" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-24" x1="58" y1="343" x2="1382" y2="343" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-25" class="ui-text" x="70" y="323.0" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">CX102</text>
+<text id="text-26" class="ui-text" x="200" y="323.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">15/11/2026 07:30</text>
+<text id="text-27" class="ui-text" x="430" y="323.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Chiều đi</text>
+<text id="text-28" class="ui-text" x="600" y="323.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">XE02 · 29 chỗ</text>
+<text id="text-29" class="ui-text" x="820" y="323.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">18</text>
+<rect id="shape-30" x="948" y="305.5" width="87.7" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-31" class="ui-text" x="991.85" y="323.5" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">Có hỗ trợ</text>
+<rect id="shape-32" x="58" y="343" width="1324" height="48" rx="0" fill="#F7F9FC" stroke="none" stroke-width="1"/>
+<line id="line-33" x1="58" y1="391" x2="1382" y2="391" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-34" class="ui-text" x="70" y="371.0" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">CX106</text>
+<text id="text-35" class="ui-text" x="200" y="371.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">15/11/2026 08:00</text>
+<text id="text-36" class="ui-text" x="430" y="371.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Chiều đi</text>
+<text id="text-37" class="ui-text" x="600" y="371.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">XE01 · 16 chỗ</text>
+<text id="text-38" class="ui-text" x="820" y="371.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">4</text>
+<rect id="shape-39" x="948" y="353.5" width="109.6" height="27" rx="13" fill="#EEF2F7" stroke="none" stroke-width="1"/>
+<text id="text-40" class="ui-text" x="1002.8" y="371.5" font-size="11px" font-weight="700" fill="#64758B" text-anchor="middle">Thông thường</text>
+<rect id="shape-41" x="58" y="391" width="1324" height="48" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-42" x1="58" y1="439" x2="1382" y2="439" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-43" class="ui-text" x="70" y="419.0" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">CX110</text>
+<text id="text-44" class="ui-text" x="200" y="419.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">16/11/2026 07:00</text>
+<text id="text-45" class="ui-text" x="430" y="419.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Chiều về</text>
+<text id="text-46" class="ui-text" x="600" y="419.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">XE02 · 29 chỗ</text>
+<text id="text-47" class="ui-text" x="820" y="419.0" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">12</text>
+<rect id="shape-48" x="948" y="401.5" width="87.7" height="27" rx="13" fill="#E7F7F5" stroke="none" stroke-width="1"/>
+<text id="text-49" class="ui-text" x="991.85" y="419.5" font-size="11px" font-weight="700" fill="#0D8C8C" text-anchor="middle">Có hỗ trợ</text>
+<rect id="button-50" x="58" y="435" width="142" height="38" rx="8" fill="#0D8C8C" stroke="#0D8C8C" stroke-width="1"/>
+<text id="text-51" class="ui-text" x="129.0" y="459.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">ĐẶT GHẾ</text>
+<rect id="button-52" x="212" y="435" width="142" height="38" rx="8" fill="#24496F" stroke="#24496F" stroke-width="1"/>
+<text id="text-53" class="ui-text" x="283.0" y="459.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">LÀM MỚI</text>
+<rect id="shape-54" x="36" y="507" width="1368" height="317" rx="13" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-55" class="ui-text" x="58" y="537" font-size="18px" font-weight="700" fill="#17345B" text-anchor="start">Đặt ghế của tôi</text>
+<text id="text-56" class="ui-text" x="58" y="560" font-size="12px" font-weight="400" fill="#64758B" text-anchor="start">Có thể hủy chỗ khi chuyến chưa khởi hành; hủy muộn được xử lý theo quy tắc 2 giờ.</text>
+<rect id="shape-57" x="58" y="576" width="1324" height="43" rx="7" fill="#24496F" stroke="none" stroke-width="1"/>
+<text id="text-58" class="ui-text" x="70" y="603" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã đặt chỗ</text>
+<text id="text-59" class="ui-text" x="245" y="603" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Mã chuyến</text>
+<text id="text-60" class="ui-text" x="415" y="603" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Giờ khởi hành</text>
+<text id="text-61" class="ui-text" x="675" y="603" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Trạng thái</text>
+<text id="text-62" class="ui-text" x="905" y="603" font-size="11px" font-weight="700" fill="#FFFFFF" text-anchor="start">Ghi chú</text>
+<rect id="shape-63" x="58" y="619" width="1324" height="45" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-64" x1="58" y1="664" x2="1382" y2="664" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-65" class="ui-text" x="70" y="645.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC001</text>
+<text id="text-66" class="ui-text" x="245" y="645.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">CX102</text>
+<text id="text-67" class="ui-text" x="415" y="645.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">15/11/2026 07:30</text>
+<rect id="shape-68" x="673" y="628.0" width="70" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-69" class="ui-text" x="708.0" y="646.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Đã giữ</text>
+<text id="text-70" class="ui-text" x="905" y="645.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start"></text>
+<rect id="shape-71" x="58" y="664" width="1324" height="45" rx="0" fill="#F7F9FC" stroke="none" stroke-width="1"/>
+<line id="line-72" x1="58" y1="709" x2="1382" y2="709" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-73" class="ui-text" x="70" y="690.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC002</text>
+<text id="text-74" class="ui-text" x="245" y="690.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">CX106</text>
+<text id="text-75" class="ui-text" x="415" y="690.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">15/11/2026 08:00</text>
+<rect id="shape-76" x="673" y="673.0" width="70" height="27" rx="13" fill="#E9F7EF" stroke="none" stroke-width="1"/>
+<text id="text-77" class="ui-text" x="708.0" y="691.0" font-size="11px" font-weight="700" fill="#21835A" text-anchor="middle">Đã giữ</text>
+<text id="text-78" class="ui-text" x="905" y="690.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start"></text>
+<rect id="shape-79" x="58" y="709" width="1324" height="45" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<line id="line-80" x1="58" y1="754" x2="1382" y2="754" stroke="#E8EDF4" stroke-width="1"/>
+<text id="text-81" class="ui-text" x="70" y="735.5" font-size="11.5px" font-weight="700" fill="#1C2D43" text-anchor="start">DC003</text>
+<text id="text-82" class="ui-text" x="245" y="735.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">CX101</text>
+<text id="text-83" class="ui-text" x="415" y="735.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">14/11/2026 07:30</text>
+<rect id="shape-84" x="673" y="718.0" width="70" height="27" rx="13" fill="#EEF2F7" stroke="none" stroke-width="1"/>
+<text id="text-85" class="ui-text" x="708.0" y="736.0" font-size="11px" font-weight="700" fill="#64758B" text-anchor="middle">Đã hủy</text>
+<text id="text-86" class="ui-text" x="905" y="735.5" font-size="11.5px" font-weight="400" fill="#1C2D43" text-anchor="start">Hủy trước giờ hạn</text>
+<rect id="button-87" x="58" y="770" width="185" height="38" rx="8" fill="#C33D4B" stroke="#C33D4B" stroke-width="1"/>
+<text id="text-88" class="ui-text" x="150.5" y="794.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">HỦY ĐẶT GHẾ</text>
+<rect id="button-89" x="258" y="770" width="142" height="38" rx="8" fill="#24496F" stroke="#24496F" stroke-width="1"/>
+<text id="text-90" class="ui-text" x="329.0" y="794.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">LÀM MỚI</text>
+</svg>

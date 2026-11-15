@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">FrmDangNhap - Dang nhap</title><desc id="desc">Editable desktop UI mockup for Bus On Demand.</desc>
+<defs><style>.ui-text{font-family:Inter,"Segoe UI",Arial,sans-serif}.no-select{user-select:none}</style></defs>
+<rect id="shape-1" x="0" y="0" width="1440" height="900" rx="0" fill="#F3F6FB" stroke="none" stroke-width="1"/>
+<rect id="shape-2" x="0" y="0" width="690" height="900" rx="0" fill="#17345B" stroke="none" stroke-width="1"/>
+<rect id="shape-3" x="58" y="70" width="64" height="64" rx="16" fill="#0D8C8C" stroke="none" stroke-width="1"/>
+<text id="text-4" class="ui-text" x="90" y="113" font-size="34px" font-weight="700" fill="#FFFFFF" text-anchor="middle">B</text>
+<text id="text-5" class="ui-text" x="60" y="205" font-size="27px" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing="1.5">BUS ON DEMAND</text>
+<text id="multiline-6" class="ui-text" x="60" y="250" font-size="17px" font-weight="700" fill="#D5E2F0"><tspan x="60" dy="0">HỆ THỐNG ĐẶT CHỖ XE BUÝT</tspan><tspan x="60" dy="28">THEO NHU CẦU QUY MÔ TRƯỜNG</tspan></text>
+<line id="line-7" x1="60" y1="337" x2="560" y2="337" stroke="#47678A" stroke-width="1"/>
+<text id="text-8" class="ui-text" x="60" y="390" font-size="15px" font-weight="700" fill="#FFFFFF" text-anchor="start">Một nền tảng. Ba vai trò vận hành.</text>
+<text id="multiline-9" class="ui-text" x="60" y="426" font-size="13px" font-weight="400" fill="#C5D7E9"><tspan x="60" dy="0">Hành khách khai báo nhu cầu và đặt chỗ.</tspan><tspan x="60" dy="30">Điều phối viên tổ chức chuyến xe.</tspan><tspan x="60" dy="30">Lái xe điểm danh và cập nhật trạng thái chuyến.</tspan></text>
+<rect id="shape-10" x="760" y="120" width="590" height="660" rx="20" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-11" class="ui-text" x="815" y="190" font-size="28px" font-weight="700" fill="#17345B" text-anchor="start">Đăng nhập hệ thống</text>
+<text id="text-12" class="ui-text" x="815" y="221" font-size="13px" font-weight="400" fill="#64758B" text-anchor="start">Sử dụng tài khoản được cấp cho vai trò của bạn.</text>
+<text id="text-13" class="ui-text" x="815" y="284" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">TÊN ĐĂNG NHẬP</text>
+<rect id="shape-14" x="815" y="294" width="480" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-15" class="ui-text" x="828" y="320" font-size="13px" font-weight="400" fill="#A8B6C8" text-anchor="start">Nhập tên đăng nhập</text>
+<text id="text-16" class="ui-text" x="815" y="368" font-size="10px" font-weight="700" fill="#64758B" text-anchor="start" letter-spacing=".7">MẬT KHẨU</text>
+<rect id="shape-17" x="815" y="378" width="480" height="42" rx="7" fill="#FFFFFF" stroke="#D9E3EF" stroke-width="1"/>
+<text id="text-18" class="ui-text" x="828" y="404" font-size="13px" font-weight="400" fill="#A8B6C8" text-anchor="start">Nhập mật khẩu</text>
+<rect id="button-19" x="815" y="452" width="480" height="50" rx="8" fill="#0D8C8C" stroke="#0D8C8C" stroke-width="1"/>
+<text id="text-20" class="ui-text" x="1055.0" y="482.0" font-size="13px" font-weight="700" fill="#FFFFFF" text-anchor="middle">ĐĂNG NHẬP</text>
+<rect id="shape-21" x="815" y="535" width="480" height="92" rx="10" fill="#EAF1F9" stroke="none" stroke-width="1"/>
+<text id="text-22" class="ui-text" x="837" y="565" font-size="12px" font-weight="700" fill="#17345B" text-anchor="start">Lưu ý</text>
+<text id="multiline-23" class="ui-text" x="837" y="589" font-size="11px" font-weight="400" fill="#64758B"><tspan x="837" dy="0">Tài khoản được cấp sẵn; hệ thống mở chức năng</tspan><tspan x="837" dy="18">tương ứng với vai trò sau khi xác thực.</tspan></text>
+<text id="text-24" class="ui-text" x="1055" y="720" font-size="10px" font-weight="700" fill="#64758B" text-anchor="middle" letter-spacing="1">GIAO DIỆN THIẾT KẾ · DESKTOP</text>
+</svg>
