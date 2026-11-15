@@ -11,11 +11,13 @@ Hệ thống hỗ trợ quản lý nhu cầu đi lại, gom nhóm nhu cầu, đ�
 
 ## 1. Cấu trúc thư mục Repository
 
+Repository được tổ chức theo các phân hệ thư mục rõ ràng:
+
 ```
 LOG_06_Datchoxebuyttheonhucau/
 ├── BusOnDemand.WinForms.sln          # Solution Visual Studio 2022
 ├── BusOnDemand.WinForms/             # Dự án WinForms (.NET Framework 4.7.2)
-│   ├── Core/                         # Tầng Core, Enums, DTO, PasswordHasher
+│   ├── Core/                         # Tầng Core, Enums, DTO, Db, PasswordHasher
 │   ├── Forms/                        # Tầng Giao diện (WinForms code-behind)
 │   │   ├── FrmDangNhap.cs            # Đăng nhập và phân quyền vai trò
 │   │   ├── FrmMain.cs                # Màn hình chính điều hướng theo vai trò
@@ -26,28 +28,33 @@ LOG_06_Datchoxebuyttheonhucau/
 │   │   ├── FrmDanhMuc.cs             # Quản lý xe và cấu hình ngưỡng vận hành
 │   │   ├── FrmThongKe.cs             # Thống kê tỷ lệ lấp đầy, vi phạm
 │   │   └── FrmVanHanh.cs             # Điểm danh, khởi hành và hoàn thành chuyến
-│   └── App.config                    # Cấu hình kết nối SQL Server
-├── BusOnDemand.Tests/                # Dự án Test & kịch bản kiểm thử
-├── diagrams/                         # Toàn bộ sơ đồ phân tích, thiết kế & ERD
-│   ├── Tong_hop_cac_so_do.drawio     # File thiết kế gốc draw.io
-│   ├── Hình_21_*.png                 # Biểu đồ Use Case tổng quát (Level 0)
-│   ├── Hình_22_*.png .. Hình_25_*.png# Biểu đồ Use Case phân rã
-│   ├── Hình_26_*.png                 # Biểu đồ lớp phân tích (Analysis Class)
-│   ├── Hình_27_*.png .. Hình_29_*.png# Biểu đồ trạng thái (State Machine)
-│   ├── Hình_31_*.png .. Hình_34_*.png# Biểu đồ tuần tự (Sequence Diagram)
-│   ├── Hình_35_*.png .. Hình_38_*.png# Biểu đồ hoạt động (Activity Diagram)
-│   ├── Hình_39_*.png .. Hình_313_*.png# Biểu đồ lớp thiết kế chi tiết (Design Class)
-│   ├── Hình_41_*.png                 # Sơ đồ quan hệ thực thể (ERD)
-│   └── Hình_51_*.png                 # Sơ đồ điều hướng Form
-├── BusOnDemand_Figma/                # Thiết kế UI Figma, Design Tokens, SVG & Preview
-├── GiaoDien_Mockup/                  # Ảnh chụp mockup giao diện các Form
-├── SQL/                              # Kịch bản SQL phân rã
-│   ├── 00_TaoCoSoDuLieu_Moi.sql      # Tạo bảng, khóa chính, khóa ngoại
+│   └── App.config                    # Cấu hình chuỗi kết nối SQL Server
+├── BusOnDemand.Tests/                # Dự án kịch bản kiểm thử (Tests)
+├── diagrams/                         # Toàn bộ sơ đồ phân tích và thiết kế
+│   ├── Tong_hop_cac_so_do.drawio     # File thiết kế gốc draw.io (dễ tìm, mở trực tiếp)
+│   └── images/                       # Thư mục lưu 33 ảnh sơ đồ trích xuất từ báo cáo
+│       ├── Hình_21_*.png             # Biểu đồ Use Case tổng quát (Level 0)
+│       ├── Hình_22_*.png .. 25_*.png # Biểu đồ Use Case phân rã
+│       ├── Hình_26_*.png             # Biểu đồ lớp phân tích (Analysis Class)
+│       ├── Hình_27_*.png .. 29_*.png # Biểu đồ trạng thái (State Machine)
+│       ├── Hình_31_*.png .. 34_*.png # Biểu đồ tuần tự (Sequence Diagram)
+│       ├── Hình_35_*.png .. 38_*.png # Biểu đồ hoạt động (Activity Diagram)
+│       ├── Hình_39_*.png .. 313_*.png# Biểu đồ lớp thiết kế chi tiết (Design Class)
+│       ├── Hình_41_*.png             # Sơ đồ quan hệ thực thể (ERD)
+│       └── Hình_51_*.png             # Sơ đồ điều hướng hệ thống Form
+├── SQL/                              # Toàn bộ script Cơ sở dữ liệu SQL Server
+│   ├── BusOnDemandDB_SQL_HoanChinh.sql   # Script CSDL hoàn chỉnh đầy đủ (chạy trực tiếp)
+│   ├── KiemThu_SQL_BusOnDemand.sql       # Script chạy kiểm thử CSDL
+│   ├── 00_TaoCoSoDuLieu_Moi.sql          # Script tạo bảng, quan hệ
 │   ├── 01_CapNhatTrangThai_TheoThietKe.sql # Ràng buộc và logic nghiệp vụ
-│   └── 02_MatKhauTaiKhoanMau.sql     # Dữ liệu tài khoản mẫu
-├── BusOnDemandDB_SQL_HoanChinh.sql   # Script CSDL SQL Server hoàn chỉnh đầy đủ
-├── KiemThu_SQL_BusOnDemand.sql       # Kịch bản kiểm thử CSDL & Stored Procedure
-└── README.md                         # Tài liệu giới thiệu và hướng dẫn
+│   └── 02_MatKhauTaiKhoanMau.sql         # Dữ liệu tài khoản mẫu
+├── BusOnDemand_Figma/                # Thiết kế UI Figma (Tokens, SVG, Preview)
+├── GiaoDien_Mockup/                  # Ảnh chụp mockup giao diện các Form
+├── docs/                             # Tài liệu hướng dẫn cài đặt & sửa giao diện
+│   ├── HuongDan_CaiDat_Chay_WinForms_BusOnDemand.docx
+│   ├── README_HUONG_DAN.md
+│   └── README_UI_LAYOUT_FIX.txt
+└── README.md                         # Tài liệu giới thiệu và hướng dẫn tổng quan
 ```
 
 ---
@@ -79,7 +86,7 @@ LOG_06_Datchoxebuyttheonhucau/
 ### Bước 1: Khởi tạo Cơ sở dữ liệu trên SQL Server
 
 1. Khởi động **SQL Server Management Studio (SSMS)** và kết nối vào SQL Server instance của bạn.
-2. Mở file `BusOnDemandDB_SQL_HoanChinh.sql` (hoặc chạy lần lượt các script trong thư mục `SQL/`):
+2. Mở file `SQL/BusOnDemandDB_SQL_HoanChinh.sql`:
    - Nhấn **Execute (F5)** để tạo database `BusOnDemandDB_Test`, các bảng, quan hệ, chỉ mục, view, stored procedures, triggers và dữ liệu kiểm thử mẫu.
 3. Chạy thêm file `SQL/02_MatKhauTaiKhoanMau.sql` để bảo đảm các tài khoản mẫu được kích hoạt mật khẩu demo.
 
@@ -132,6 +139,7 @@ Sau khi chạy script khởi tạo dữ liệu, bạn có thể đăng nhập b�
 
 ## 7. Tài liệu và Báo cáo
 
-- Toàn bộ sơ đồ UML (Use Case, Sequence, Activity, Class, State Machine, ERD) có tại thư mục [`diagrams/`](./diagrams/).
-- File thiết kế chi tiết trên draw.io: [`diagrams/Tong_hop_cac_so_do.drawio`](./diagrams/Tong_hop_cac_so_do.drawio).
+- File thiết kế gốc draw.io: [`diagrams/Tong_hop_cac_so_do.drawio`](./diagrams/Tong_hop_cac_so_do.drawio) (mở bằng Draw.io hoặc app diagrams.net).
+- Thư mục ảnh sơ đồ trích xuất: [`diagrams/images/`](./diagrams/images/).
+- Tài liệu hướng dẫn cài đặt chi tiết: [`docs/`](./docs/).
 - Báo cáo đồ án chi tiết định dạng Word (.docx) đã nộp theo quy định của bộ môn.
